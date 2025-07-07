@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/bloodconnect-110554-aa3f4ac9/frontend_web"
+}
